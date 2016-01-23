@@ -1,0 +1,10 @@
+
+
+
+cd /home/svn_checkout/job_root/kbengine_0.7/kbengine/kbe/src
+cd /home/svn_checkout/job_root/kbengine_0.7/kbengine_unity3d_demo/kbengine_demos_assets
+cd /home/svn_checkout/job_root/kbengine_0.7/kbengine_unity3d_demo/kbengine_demos_assets/scripts
+
+
+
+
